@@ -1,0 +1,11 @@
+// ============
+// === AJAX ===
+// ============
+
+Es una tecnología que permite hacer consultas por HTTP de forma "asíncrona"
+contra el servidor.
+
+Permite comunicar un "cliente" con un "servidor" mediante peticiones HTTP.
+
+Permite acceder a datos existentes en el servidor sin necesidad de recargar 
+la página completamente.

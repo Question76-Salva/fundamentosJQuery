@@ -1,0 +1,17 @@
+[
+    {
+        "nombre" : "Salva",
+        "puesto" : "Desarrollador Web FullStack",
+        "edad" : 45
+    },
+    {
+        "nombre" : "Juan",
+        "puesto" : "Desarrollador Web FrontEnd",
+        "edad" : 36
+    },
+    {
+        "nombre" : "Maria",
+        "puesto" : "Contabilidad",
+        "edad" : 42
+    }
+]
